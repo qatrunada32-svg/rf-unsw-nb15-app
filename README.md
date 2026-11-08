@@ -4,8 +4,8 @@ Ujian Tengah Semester, **Machine Learning for Network Data**, D4 Teknologi Rekay
 
 | | |
 |---|---|
-| Nama | ISI NAMA LENGKAP |
-| NPM | ISI NPM |
+| Nama | CUT QATRUNADA NASYWA MAHADEWI |
+| NPM | 2410017514008 |
 | Judul | Implementasi Random Forest untuk Klasifikasi Anomali dan Serangan pada Dataset UNSW-NB15 |
 | Live app | ISI LINK https://....streamlit.app |
 | Notebook Colab | ISI LINK COLAB (Anyone with the link can view) |
